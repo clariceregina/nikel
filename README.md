@@ -47,17 +47,23 @@ O projeto foi construído utilizando **HTML**, **CSS**, **JavaScript** e **Boots
 ## 📸 Páginas do Projeto
 
 ### **1. Tela de Login / Cadastro**
-- Permite entrar na aplicação ou criar conta rapidamente
-- Modal para criar nova conta
+* Permite entrar na aplicação ou criar conta rapidamente.
+* Modal para criar nova conta.
+
+![Tela de Login e Cadastro](preview/login.png)
 
 ### **2. Dashboard (Home)**
-- Mostra o **saldo atual**
-- Lista últimas **entradas** e **saídas**
-- Botão para adicionar novos lançamentos
+* Mostra o **saldo atual**.
+* Lista últimas **entradas** e **saídas**.
+* Botão para adicionar novos lançamentos.
+
+![Dashboard Principal com Saldo e Últimos Lançamentos](preview/home.png)
 
 ### **3. Página de Lançamentos**
-- Tabela com **todas** as transações
-- Modal para adicionar novos lançamentos
+* Tabela com **todas** as transações.
+* Modal para adicionar novos lançamentos.
+
+![Página de Tabela de Lançamentos](preview/transactions.png)
 
 ---
 
