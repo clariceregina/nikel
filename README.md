@@ -1,7 +1,9 @@
-# Nikel – Gerenciador Financeiro Simples
+# Nikel – Gerenciador Financeiro
 
 Nikel é uma aplicação web desenvolvida para ajudar usuários a organizarem suas finanças de forma prática e intuitiva.  
+
 O sistema permite registrar entradas e saídas, visualizar o total disponível e consultar todo o histórico de transações.  
+
 O projeto foi construído utilizando **HTML**, **CSS**, **JavaScript** e **Bootstrap**, armazenando os dados no **LocalStorage** do navegador.
 
 ---
